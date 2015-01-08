@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+// ----- # ${1:Title} ----- //
+
+]]></content>
+  <tabTrigger>//-</tabTrigger>
+  <description>Item title</description>
+  <!-- <scope>source.css, source.css.less, source.sass</scope> -->
+</snippet>

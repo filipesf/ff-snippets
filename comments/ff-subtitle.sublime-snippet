@@ -1,12 +1,10 @@
 <snippet>
   <content><![CDATA[
 /**
- *
- *  ${1:Comment}
- *
+ * ${1:Comment}
  */
 
-
+${2}
 ]]></content>
   <tabTrigger>//*</tabTrigger>
   <description>Long description</description>

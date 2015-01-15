@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 // ----- # ${1:Title} ----- //
-${2}
+$2
 ]]></content>
   <tabTrigger>//-</tabTrigger>
   <description>Item title</description>

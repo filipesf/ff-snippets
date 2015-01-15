@@ -4,7 +4,7 @@
 //   # ${1:Title}
 // ----------------------------------------------------------------------------
 
-${2}
+$2
 ]]></content>
   <tabTrigger>//--</tabTrigger>
   <description>Section title</description>

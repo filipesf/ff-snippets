@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+//=====================================
+//
+//  ${1:Title}: ${2:Description}
+//
+//=====================================
+
+
+
+$3
+]]></content>
+  <tabTrigger>//=</tabTrigger>
+  <description>Header of the file</description>
+</snippet>

@@ -6,7 +6,6 @@
 
 $2
 ]]></content>
-  <tabTrigger>//*</tabTrigger>
+  <tabTrigger>/**</tabTrigger>
   <description>Long description</description>
-  <!-- <scope>source.css, source.css.less, source.sass</scope> -->
 </snippet>

@@ -3,7 +3,6 @@
 /**
  * ${1:Comment}
  */
-
 $2
 ]]></content>
   <tabTrigger>/**</tabTrigger>

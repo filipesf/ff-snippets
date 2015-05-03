@@ -1,10 +1,11 @@
 <snippet>
   <content><![CDATA[
 /*-----------------------------------*\
-    #${1:Title}
+  #${1:Title}
 \*-----------------------------------*/
 $2
 ]]></content>
   <tabTrigger>/*</tabTrigger>
-  <description>Title index</description>
+  <description>CSS Title</description>
+  <scope>source.css</scope>
 </snippet>

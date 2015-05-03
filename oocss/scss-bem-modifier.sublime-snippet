@@ -6,4 +6,5 @@
 ]]></content>
   <tabTrigger>mod</tabTrigger>
   <description>BEM: Modifier</description>
+  <scope>source.scss</scope>
 </snippet>

@@ -6,4 +6,5 @@
 ]]></content>
   <tabTrigger>ele</tabTrigger>
   <description>BEM: Element</description>
+  <scope>source.scss</scope>
 </snippet>

@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
-//-------------------------------------
-// #${1:Title}
-//-------------------------------------
+/*-----------------------------------*\
+  #${1:Title}
+\*-----------------------------------*/
 $2
 ]]></content>
-  <tabTrigger>//-</tabTrigger>
+  <tabTrigger>/*</tabTrigger>
   <description>Javascript title</description>
   <scope>source.js</scope>
 </snippet>

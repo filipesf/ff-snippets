@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-@include e($1) {
+@include e('$1') {
   $2
 }
 ]]></content>

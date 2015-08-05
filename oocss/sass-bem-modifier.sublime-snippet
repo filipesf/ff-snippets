@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-+m($1)
++m('$1')
   $2
 ]]></content>
   <tabTrigger>mod</tabTrigger>

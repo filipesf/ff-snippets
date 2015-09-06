@@ -6,7 +6,8 @@
   @else
     ${2://...}
 
-%o-$1
+%o-$1,
+.o-$1
   +o-$1($3)
 ]]></content>
   <tabTrigger>oo</tabTrigger>

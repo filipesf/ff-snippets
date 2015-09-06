@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-&--$1
+.has-$1
   $2
 ]]></content>
-  <tabTrigger>mod</tabTrigger>
-  <description>BEM: Modifier</description>
+  <tabTrigger>has</tabTrigger>
+  <description>New Sass state: has</description>
   <scope>source.sass</scope>
 </snippet>

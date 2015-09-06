@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-&--$1
+.c-$1
   $2
 ]]></content>
-  <tabTrigger>mod</tabTrigger>
-  <description>BEM: Modifier</description>
+  <tabTrigger>comp</tabTrigger>
+  <description>New Sass component</description>
   <scope>source.sass</scope>
 </snippet>

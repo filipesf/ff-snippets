@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-+e('$1')
+&__$1
   $2
 ]]></content>
   <tabTrigger>ele</tabTrigger>

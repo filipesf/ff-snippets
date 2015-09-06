@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-&__$1 {
+.s-$1 {
   $2
 }
 ]]></content>
-  <tabTrigger>ele</tabTrigger>
-  <description>BEM: Element</description>
+  <tabTrigger>scope</tabTrigger>
+  <description>New SCSS scope</description>
   <scope>source.scss</scope>
 </snippet>

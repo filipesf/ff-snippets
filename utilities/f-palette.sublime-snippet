@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+palette('$1'${2:, '${3:base}'});
+]]></content>
+  <tabTrigger>plt</tabTrigger>
+  <description>Palette</description>
+  <scope>source.scss,source.sass</scope>
+</snippet>

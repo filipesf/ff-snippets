@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include font-weight('${1:thin, light, medium, bold, bolder...}');
+]]></content>
+  <tabTrigger>fw</tabTrigger>
+  <description>@font-weight</description>
+  <scope>source.scss,source.sass</scope>
+</snippet>

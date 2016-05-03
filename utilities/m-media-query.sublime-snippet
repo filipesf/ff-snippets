@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@include mq('${1:mobile, tablet, desktop, wide...}') {
+  $2
+}
+]]></content>
+  <tabTrigger>mq</tabTrigger>
+  <description>@media</description>
+  <scope>source.scss,source.sass</scope>
+</snippet>

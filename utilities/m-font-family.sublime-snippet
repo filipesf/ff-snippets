@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include font-family('${1:sans, serif, mono, primary...}');
+]]></content>
+  <tabTrigger>ff</tabTrigger>
+  <description>@font-family</description>
+  <scope>source.scss,source.sass</scope>
+</snippet>

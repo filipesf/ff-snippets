@@ -1,10 +1,16 @@
 <snippet>
   <content><![CDATA[
-/// ${1:Title}
-/// @group   ${2:[group name]}
-/// @author  ${3:[author's name]}
-/// @param   ${4:[param]} \$${5:[param name]} - ${6:[param description]}
-/// @example ${7:[scss | sass]} - Usage
+///
+/// ${1:Description}
+///
+/// @author ${2:[Author's name]}
+///
+/// ${3:@require $4{{type}} $5{[Item]}}
+///
+/// @param ${6:[Param]} \$${7:[Param name]} - ${8:[Param description]}
+///
+/// ${9:@output}${10:@return} - ${11:[Description]}
+///
 ]]></content>
   <tabTrigger>sassdoc</tabTrigger>
   <description>Sass Documentation</description>

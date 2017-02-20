@@ -5,7 +5,7 @@
 ///
 /// @author ${2:[Author's name]}
 ///
-/// ${3:@require $4{{type}} $5{[Item]}}
+/// ${3:@require $4{\{type\}} $5{[Item]}}
 ///
 /// @param ${6:[Param]} \$${7:[Param name]} - ${8:[Param description]}
 ///

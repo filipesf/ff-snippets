@@ -3,13 +3,13 @@
 ///
 /// ${1:Description}
 ///
-/// @author ${2:[Author's name]}
+/// @author ${2:Author's name}
 ///
-/// ${3:@require ${4:[Type]} ${5:[Item]}
+/// ${3:@require \{${4:Type}\} ${5:Item}}
 ///
-/// @param ${6:[Param]} \$${7:[Param name]} - ${8:[Param description]}
+/// @param \{${6:Type}\} \$${7:param-name} - ${9:Description}
 ///
-/// ${9:@output}${10:@return} - ${11:[Description]}
+/// ${10:@output}${11:@return} - ${12:Description}
 ///
 ]]></content>
   <tabTrigger>sassdoc</tabTrigger>

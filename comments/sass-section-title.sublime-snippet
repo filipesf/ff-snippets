@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
 //-------------------------------------
-// @${1:Title}
+// @${1:TITLE}
 //-------------------------------------
 $2
 ]]></content>
   <tabTrigger>//-</tabTrigger>
-  <description>Sass title</description>
+  <description>Sass Section Title</description>
   <scope>source.sass,source.scss</scope>
 </snippet>

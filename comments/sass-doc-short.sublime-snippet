@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/// ${1:Description}
+/// ${2:@require \{${3:type}\} ${4:item}}
+/// @type \{${5:number | string | color | boolean | null | list | map}\}
+$6
+]]></content>
+  <tabTrigger>//</tabTrigger>
+  <description>SassDoc Short Description</description>
+  <scope>source.sass,source.scss</scope>
+</snippet>

@@ -7,5 +7,5 @@ $2
 ]]></content>
   <tabTrigger>/**</tabTrigger>
   <description>CSS description</description>
-  <scope>source.css</scope>
+  <scope>source.css,source.js</scope>
 </snippet>

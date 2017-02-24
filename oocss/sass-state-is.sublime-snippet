@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-.is-$1
-  $2
-]]></content>
-  <tabTrigger>is</tabTrigger>
-  <description>New Sass state: is</description>
-  <scope>source.sass</scope>
-</snippet>

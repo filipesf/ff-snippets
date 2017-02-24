@@ -6,6 +6,6 @@
 $2
 ]]></content>
   <tabTrigger>//-</tabTrigger>
-  <description>Sass Section Title</description>
+  <description>Sass Section</description>
   <scope>source.sass,source.scss</scope>
 </snippet>

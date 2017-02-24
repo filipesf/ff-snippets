@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-.t-$1
-  $2
-]]></content>
-  <tabTrigger>theme</tabTrigger>
-  <description>New Sass theme</description>
-  <scope>source.sass</scope>
-</snippet>

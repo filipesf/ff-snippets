@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-._$1
-  $2
-]]></content>
-  <tabTrigger>hack</tabTrigger>
-  <description>New Sass hack</description>
-  <scope>source.sass</scope>
-</snippet>

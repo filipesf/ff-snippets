@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-.u-$1
-  $2
-]]></content>
-  <tabTrigger>util</tabTrigger>
-  <description>New Sass util</description>
-  <scope>source.sass</scope>
-</snippet>

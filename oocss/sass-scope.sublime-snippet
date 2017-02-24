@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-.s-$1
-  $2
-]]></content>
-  <tabTrigger>scope</tabTrigger>
-  <description>New Sass scope</description>
-  <scope>source.sass</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-&__$1
-  $2
-]]></content>
-  <tabTrigger>ele</tabTrigger>
-  <description>BEM: Element</description>
-  <scope>source.sass</scope>
-</snippet>

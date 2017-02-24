@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+color($1${2:, '${3:base}'})
+]]></content>
+  <tabTrigger>color</tabTrigger>
+  <description>color() @Function</description>
+  <scope>source.scss,source.sass</scope>
+</snippet>

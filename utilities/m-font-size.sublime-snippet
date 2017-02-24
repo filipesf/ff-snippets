@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-@include font-size(${1:'${2:small, regular, large...}'});
-]]></content>
-  <tabTrigger>fs</tabTrigger>
-  <description>@font-size</description>
-  <scope>source.scss,source.sass</scope>
-</snippet>

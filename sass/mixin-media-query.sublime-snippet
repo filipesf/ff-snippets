@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-@include mq($1) {
+@include media-query($1) {
   $2
 }
 ]]></content>

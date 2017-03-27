@@ -5,9 +5,11 @@
 ///
 /// @author ${2:Author's name}
 ///
-/// ${3:@require \{${4:type}\} ${5:item}}
+/// @group ${3:Group Name}
 ///
-/// @param \{${6:type}\} \$${7:param-name} - ${9:Description}
+/// ${4:@require \{${5:type}\} ${6:item}}
+///
+/// @param \{${7:type}\} \$${8:param-name} - ${9:Description}
 ///
 /// ${10:@output}${11:@return} - ${12:Description}
 ///

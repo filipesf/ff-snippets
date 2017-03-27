@@ -1,9 +1,10 @@
 <snippet>
   <content><![CDATA[
 /// ${1:Description}
-/// ${2:@require \{${3:type}\} ${4:item}}
-/// @type \{${5:number | string | color | boolean | null | list | map}\}
-$6
+/// @group ${2:Group Name}
+/// ${3:@require \{${4:type}\} ${5:item}}
+/// @type \{${6:number | string | color | boolean | null | list | map}\}
+$7
 ]]></content>
   <tabTrigger>//</tabTrigger>
   <description>SassDoc Short Description</description>

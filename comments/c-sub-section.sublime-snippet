@@ -1,11 +1,10 @@
 <snippet>
   <content><![CDATA[
-/* ==========================================================================
-   ${1:Section comment block}
+/* ${1:Sub-section comment block}
    ========================================================================== */
 $2
 ]]></content>
-  <tabTrigger>/*</tabTrigger>
-  <description>Section comment block</description>
+  <tabTrigger>/**</tabTrigger>
+  <description>Sub-section comment block</description>
   <scope>source.css,source.scss,source.sass,source.js</scope>
 </snippet>

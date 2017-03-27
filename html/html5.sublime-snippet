@@ -1,5 +1,4 @@
 <snippet>
-
   <content><![CDATA[<!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -9,50 +8,14 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="${1:TITLE}" />
-    <meta property="og:type" content="ARTICLE OR WEBSITE" />
-    <meta property="og:url" content="FULL URL" />
-    <meta property="og:image" content="IMAGE" />
-    <meta property="og:description" content="DESCRIPTION" />
-    <meta property="og:site_name" content="SITE NAME" />
-    <meta property="fb:app_id" content="FB_APP_ID" />
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="SUMMARY">
-    <meta name="twitter:site" content="@PUBLISHER_HANDLE">
-    <meta name="twitter:title" content="${1:TITLE}">
-    <meta name="twitter:description" content="DESCRIPTION">
-    <meta name="twitter:creator" content="@AUTHOR_HANDLE">
-    <meta name="twitter:image" content="IMAGE">
-
-    <!-- Favicon -->
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <!--[if lt IE 8]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-
     $2
 
-    <!-- Scripts -->
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <script src="/scripts.js"></script>
-
-    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-    <script>
-      window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-      ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
-    </script>
-    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    <script src="scripts.js"></script>
   </body>
 </html>]]></content>
   <tabTrigger>html5</tabTrigger>

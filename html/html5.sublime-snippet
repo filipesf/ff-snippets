@@ -7,15 +7,12 @@
     <title>${1:TITLE}</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="main.css">
   </head>
   <body>
     $2
 
-    <script src="scripts.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>]]></content>
   <tabTrigger>html5</tabTrigger>

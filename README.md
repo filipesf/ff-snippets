@@ -1,19 +1,13 @@
-#`ff-snippets`
+FF Sublime Snippets
+===================
 
-## Installation
+Installation
+------------
 
-```
-git clone git@github.com:filipesf/ff-snippets.git && mv -f ff-snippets ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ff-snippets
-```
+1. Select menu: `Preferences > Package Control > Add Repository`
 
-## Update
+  Enter the following URL: `https://github.com/filipesf/ff-snippets`
 
-```
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ff-snippets && git pull
-```
+2. Select menu: `Preferences > Package Control > Install package`
 
-## Removing
-
-```
-rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ff-snippets
-```
+3. Install package named: `ff-snippets`

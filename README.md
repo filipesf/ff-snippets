@@ -1,4 +1,4 @@
-FF Sublime Snippets
+FF Snippets
 ===================
 
 Installation
